@@ -7,8 +7,11 @@ feel free to ammend more complexities as needed but I kept it as simple as possi
 This was made as a part of AI assignment at BITS Pilani Hyderabad campus. 
 The arena shows the game with 1 sec pause between moves, just comment out the rendering portions if you do not want to visualize the game
 imports neccessary:
+
 pip install python-chess
+
 pip install cairosvg
+
 pip install matplotlib
 
 Go ahead and enjoy
